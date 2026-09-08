@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+/* this is the 
+symbol to indicate 
+the code as multi line comment*/
+cout<<"Multiline comment";
+return 0;
+}
