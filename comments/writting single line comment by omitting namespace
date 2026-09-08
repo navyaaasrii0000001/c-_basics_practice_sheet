@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main(){
+// observre the below cout statement 
+std::cout<<"omitting namespace";//yeah  in this way you have to write code when you omit namespace
+return 0;
+}
