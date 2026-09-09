@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+int a=11,b=13;
+int area_of_rectangle=a*b;
+int perimeter_of_rectangle=2(a+b);
+cout<<area_of_rectangle<<endl;
+cout<<perimeter_of_rectangle<<endl;
+return 0;
+}
