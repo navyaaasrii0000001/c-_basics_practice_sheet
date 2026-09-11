@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 3;
+    long long b = 12345678912345;
+    char ch = 'a';
+    float f = 334.23;
+    double d = 14049.30493;
+
+    cout << a << endl;
+    cout << b << endl;
+    cout << ch << endl;
+    cout << f << endl;
+    cout << d;
+
+    return 0;
+}
