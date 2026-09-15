@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+void vechile_A()
+{
+cout<<"Bus,van,scooter\n";
+}
+void electronics_B()
+{
+cout<<"Mobiles,Tab,Earpods,Laptop\n";
+vechile_A();
+}
+int main(){
+cout<<"the first one are elctronics and later are vechiles\n";
+electronics_B();
+return 0;
+}
