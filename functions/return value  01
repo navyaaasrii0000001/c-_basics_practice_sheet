@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int six()
+{
+  return 6;
+  }
+int main(){
+  cout<<six()<<"\n";
+  cout<<six() +9<<"\n";
+  return 0;
+  }
