@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+void mobiles() {
+  cout<<"iphone,samsung,nokia,realme \n";
+} 
+int main(){
+  cout<<"advantage of functions is we can use them more than once \n";
+mobiles();
+mobiles();
+cout<<" similar to the above one we  can use functions ";
+return 0;
+}
