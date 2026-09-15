@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+void cars()
+{
+cout<<"BMW ,BENZ,AUDI\n";
+}
+int main(){
+cout<<"the following  are the names of the  cars \n";
+cars();
+cout<<"this is the way to  print void function \n  ";
+ return 0;
+ }
