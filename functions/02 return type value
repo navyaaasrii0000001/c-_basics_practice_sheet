@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int returnsix()
+{
+return 6;
+}
+int main(){
+cout<<returnsix()<<"\n";
+cout<<returnsix()+1;
+returnsix()
+return 0;
+}
