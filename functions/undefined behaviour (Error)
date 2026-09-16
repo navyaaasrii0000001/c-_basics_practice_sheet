@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int get_value_of_pens()
+{
+cout<<"Enter a value :";
+int input{};
+cin>>input;// undefined occur because of forgoting return value 
+}
+int main(){
+int num{get_value_of_pens()};
+get_value_of_pens();
+cout<<num;
+return 0;
+}
