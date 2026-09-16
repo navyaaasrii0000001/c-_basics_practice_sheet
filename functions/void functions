@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+void printHi(){
+  cout<<"hi";
+}
+int main() {
+  printHi();
+  return 0;
+}
