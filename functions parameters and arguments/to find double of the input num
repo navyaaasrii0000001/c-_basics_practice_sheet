@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int getvaluefromuser()
+{
+  cout<<"Enter a number :";
+  int input{};
+  cin>>input;
+  return input ;
+}
+int main() {
+  int num{getvaluefromuser()};
+  cout<<num<<" double of num is "<<num*2;
+  return 0;
+}
