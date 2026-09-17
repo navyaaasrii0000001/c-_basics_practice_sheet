@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int  get_value_from_user()
+{
+cout<<"Enter a number :";
+int input{};
+cin>>input;
+return input;
+}
+void printsquare(intvalue)
+{
+  cout<<value<<" square of num is "<<value*value;
+}
+int main() {
+    int num{printsquare(intvalue)};
+printsquare(num);
+return 0;
+}
