@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int square(int a)
+{
+return a*a;
+}
+int add(int x,int y)
+{ 
+return x+y;
+}
+int main() {
+cout<<square(5)<<"\n";
+cout<<square(8)<<"\n";
+cout<<add(7,5);
+return 0;
+}
