@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+int a=4,b=6;
+int n;
+n=a;
+a=b;
+cout<<a<<"\n";
+cout<<b;
+return 0;
+}
+
+
