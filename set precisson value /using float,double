@@ -1,0 +1,11 @@
+#include <iomanip>
+#include <iostream>
+using namespace std;
+
+int main(){
+   cout<<setprecision(17);
+   cout<<3.3333333333333333333333333333333f<<"\n";
+   cout<<3.33333333333333333333;
+   return 0;
+   }
+   
