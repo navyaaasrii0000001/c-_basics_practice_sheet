@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+  bool apple_is_a_fruit=true;
+  cout<<apple_is_a_fruit;
+  return 0;
+  }
