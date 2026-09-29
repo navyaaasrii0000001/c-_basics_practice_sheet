@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+bool c_is_high_level_language=true;
+cout<<!c_is_high_level_language;
+return 0;
+}
