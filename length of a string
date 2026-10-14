@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+string name="navya sri ";
+cout<<name << "has"<< name.length();
+return 0;
+}
